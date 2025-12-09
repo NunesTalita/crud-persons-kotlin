@@ -9,6 +9,7 @@ Um projeto simples desenvolvido em **Kotlin + Spring Boot** para demonstrar as o
 
 ## 🚀 Tecnologias Usadas
 - Kotlin
+- Java 21
 - Spring Boot
 - Spring Data JPA
 - H2 Database
@@ -53,3 +54,5 @@ Configuração:
 ---
 
 📚 Projeto criado para estudo de Kotlin + Spring Boot.
+
+ 

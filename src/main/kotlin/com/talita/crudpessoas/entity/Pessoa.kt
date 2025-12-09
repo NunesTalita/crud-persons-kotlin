@@ -9,7 +9,7 @@ import jakarta.persistence.Id
 class Person(
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
-    var id: Long? = null,
+    var id: Long = 0L,
     var firstName: String,
     var lastName: String,
     var age: Int,
